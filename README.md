@@ -1,6 +1,6 @@
 # sorts
 
-Here are some "classic" ways to sort an array of numbers. They include
+Here are some "classic" ways to sort an array of numbers. They include:
 
 ## Bubble sort
 
@@ -12,8 +12,8 @@ Find the smallest element in the array and swap it with the first one. Then find
 
 ## Insertion sort
 
-Iterate over the array, for each element find the leftmost one that is smaller and place the element right after it. Time complexity is still $O(n^2)$
+Iterate over the array, for each element find the leftmost one that is smaller and place the element right after it. Time complexity is still $O(n^2)$.
 
 ## Megre sort
 
-This methd is recurrent. Divide the array into two arrays, do the same with both of them and then merge them back. Time complexity here is $O(n\log n)$
+This methd is recurrent. Divide the array into two arrays, do the same with both of them and then merge them back. Time complexity here is $O(n\log n)$.
